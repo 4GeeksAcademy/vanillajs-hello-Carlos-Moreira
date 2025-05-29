@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: gainsboro;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    align-items: center;
+}
+#excuse{
+    font-size: 50px;
+    text-align: center;
+    align-items: center;
 }
